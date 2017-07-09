@@ -1,0 +1,11 @@
+faradicmechanics/item.tilePowerConnector=Basic Power Connector
+faradicmechanics/item.tilePole=Power Pole
+faradicmechanics/item.tileGenerator=Generator
+faradicmechanics/item.tilePowerCable=Power Cable
+faradicmechanics/item.itemPowerCable=Copper Wire
+
+faradicmechanics/details.tilePowerConnector=Place on top of Power Poles and Machines to supply them with electricity.
+faradicmechanics/details.tilePole=This is a power pole which you can place Power Connectors on.
+faradicmechanics/details.tileGenerator=Generates electricity.
+faradicmechanics/details.tilePowerCable=Used to connect machines that supply power with machines that consume power.
+faradicmechanics/details.itemPowerCable=Use this item on two different Power Connectors to allow electricity to flow through them.
